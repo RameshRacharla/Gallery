@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Obvious - Gallery</string>
+
+    <string name="loading">Loading...</string>
+    //network errors
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something went wrong, please retry </string>
+    <string name="network_internal_error">There was a system error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="network_invalidation_error">Username or password is incorrect,Please try again</string>
+    <string name="server_connection_error">Unable to connect to the server, please try again later</string>
+    <string name="network_login_again">Please log in again</string>
+
+
+</resources>
